@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
