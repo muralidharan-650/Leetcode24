@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muralidharan-650/Leetcode24/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2752-sum-multiples](https://github.com/muralidharan-650/Leetcode24/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muralidharan-650/Leetcode24/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/muralidharan-650/Leetcode24/tree/master/3371-harshad-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muralidharan-650/Leetcode24/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
