@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muralidharan-650/Leetcode24/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2752-sum-multiples](https://github.com/muralidharan-650/Leetcode24/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muralidharan-650/Leetcode24/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muralidharan-650/Leetcode24/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
