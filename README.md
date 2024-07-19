@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/muralidharan-650/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muralidharan-650/Leetcode24/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/muralidharan-650/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/muralidharan-650/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muralidharan-650/Leetcode24/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
