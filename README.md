@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
+| [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
