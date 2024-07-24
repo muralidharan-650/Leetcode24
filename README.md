@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/muralidharan-650/Leetcode24/tree/master/1791-richest-customer-wealth) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/muralidharan-650/Leetcode24/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
