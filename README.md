@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/muralidharan-650/Leetcode24/tree/master/1791-richest-customer-wealth) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
