@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/muralidharan-650/Leetcode24/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/muralidharan-650/Leetcode24/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/muralidharan-650/Leetcode24/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/muralidharan-650/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/muralidharan-650/Leetcode24/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muralidharan-650/Leetcode24/tree/master/0020-valid-parentheses) |
+| [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
