@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/muralidharan-650/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
