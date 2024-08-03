@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/muralidharan-650/Leetcode24/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/muralidharan-650/Leetcode24/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/muralidharan-650/Leetcode24/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2714-left-and-right-sum-differences](https://github.com/muralidharan-650/Leetcode24/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/muralidharan-650/Leetcode24/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0948-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/muralidharan-650/Leetcode24/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
