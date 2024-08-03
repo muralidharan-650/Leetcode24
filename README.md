@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muralidharan-650/Leetcode24/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muralidharan-650/Leetcode24/tree/master/0020-valid-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
+| [2886-faulty-keyboard](https://github.com/muralidharan-650/Leetcode24/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/muralidharan-650/Leetcode24/tree/master/3396-valid-word) |
 ## Trie
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/muralidharan-650/Leetcode24/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/muralidharan-650/Leetcode24/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2886-faulty-keyboard](https://github.com/muralidharan-650/Leetcode24/tree/master/2886-faulty-keyboard) |
 ## Binary Search
 |  |
 | ------- |
