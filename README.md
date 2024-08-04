@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/muralidharan-650/Leetcode24/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/muralidharan-650/Leetcode24/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/muralidharan-650/Leetcode24/tree/master/3515-find-if-digit-game-can-be-won) |
