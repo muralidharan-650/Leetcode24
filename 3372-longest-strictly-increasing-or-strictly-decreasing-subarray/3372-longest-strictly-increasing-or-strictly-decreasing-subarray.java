@@ -12,9 +12,11 @@ class Solution {
                 li.add(max);
                 max=1;
             }
-           
-        }li.add(max);
-         max=1;
+            
+        }
+        li.add(max);
+        max=1;
+
         for(int i=0;i<n.length-1;i++)
         {
             if(n[i]>n[i+1]) max+=1;
@@ -23,7 +25,8 @@ class Solution {
                 max=1;
             }
             
-        }li.add(max);
+        }
+        li.add(max);
 
         Collections.sort(li);
         return li.get(li.size()-1);
