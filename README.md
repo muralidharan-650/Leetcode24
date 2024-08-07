@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/muralidharan-650/Leetcode24/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/muralidharan-650/Leetcode24/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/muralidharan-650/Leetcode24/tree/master/2714-left-and-right-sum-differences) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/muralidharan-650/Leetcode24/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
