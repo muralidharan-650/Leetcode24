@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/muralidharan-650/Leetcode24/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muralidharan-650/Leetcode24/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/muralidharan-650/Leetcode24/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muralidharan-650/Leetcode24/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Database
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0948-sort-an-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muralidharan-650/Leetcode24/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
