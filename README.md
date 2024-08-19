@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/muralidharan-650/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/muralidharan-650/Leetcode24/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/muralidharan-650/Leetcode24/tree/master/0078-subsets) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muralidharan-650/Leetcode24/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/muralidharan-650/Leetcode24/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/muralidharan-650/Leetcode24/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/muralidharan-650/Leetcode24/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
