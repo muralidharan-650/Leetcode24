@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/muralidharan-650/Leetcode24/tree/master/0038-count-and-say) |
 | [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/muralidharan-650/Leetcode24/tree/master/2886-faulty-keyboard) |
+| [3379-score-of-a-string](https://github.com/muralidharan-650/Leetcode24/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/muralidharan-650/Leetcode24/tree/master/3396-valid-word) |
 ## Trie
 |  |
