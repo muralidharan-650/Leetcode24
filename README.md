@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/muralidharan-650/Leetcode24/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/muralidharan-650/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/muralidharan-650/Leetcode24/tree/master/0078-subsets) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/muralidharan-650/Leetcode24/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
 ## Divide and Conquer
