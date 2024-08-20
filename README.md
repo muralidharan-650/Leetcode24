@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/muralidharan-650/Leetcode24/tree/master/0217-contains-duplicate) |
+| [0643-maximum-average-subarray-i](https://github.com/muralidharan-650/Leetcode24/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0948-sort-an-array) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/muralidharan-650/Leetcode24/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/muralidharan-650/Leetcode24/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
