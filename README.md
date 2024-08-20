@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/muralidharan-650/Leetcode24/tree/master/0392-is-subsequence) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muralidharan-650/Leetcode24/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Database
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/muralidharan-650/Leetcode24/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/muralidharan-650/Leetcode24/tree/master/1511-count-number-of-teams) |
 ## Greedy
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/muralidharan-650/Leetcode24/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/muralidharan-650/Leetcode24/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muralidharan-650/Leetcode24/tree/master/0038-count-and-say) |
+| [0392-is-subsequence](https://github.com/muralidharan-650/Leetcode24/tree/master/0392-is-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/muralidharan-650/Leetcode24/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/muralidharan-650/Leetcode24/tree/master/3379-score-of-a-string) |
