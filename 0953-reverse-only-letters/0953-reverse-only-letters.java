@@ -20,10 +20,8 @@ class Solution {
             ch[rear]=temp;
             front++;
             rear--;
-
-
         }
-        s=new String(ch);
-        return s;
+        return new String(ch);
+        
     }
 }
