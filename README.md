@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/muralidharan-650/Leetcode24/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/muralidharan-650/Leetcode24/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/muralidharan-650/Leetcode24/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/muralidharan-650/Leetcode24/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/muralidharan-650/Leetcode24/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/muralidharan-650/Leetcode24/tree/master/1791-richest-customer-wealth) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/muralidharan-650/Leetcode24/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/muralidharan-650/Leetcode24/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/muralidharan-650/Leetcode24/tree/master/2684-determine-the-winner-of-a-bowling-game) |
