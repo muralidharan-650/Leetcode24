@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/muralidharan-650/Leetcode24/tree/master/0392-is-subsequence) |
+| [0953-reverse-only-letters](https://github.com/muralidharan-650/Leetcode24/tree/master/0953-reverse-only-letters) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/muralidharan-650/Leetcode24/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Database
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/muralidharan-650/Leetcode24/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/muralidharan-650/Leetcode24/tree/master/0038-count-and-say) |
 | [0392-is-subsequence](https://github.com/muralidharan-650/Leetcode24/tree/master/0392-is-subsequence) |
+| [0953-reverse-only-letters](https://github.com/muralidharan-650/Leetcode24/tree/master/0953-reverse-only-letters) |
 | [2727-number-of-senior-citizens](https://github.com/muralidharan-650/Leetcode24/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/muralidharan-650/Leetcode24/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/muralidharan-650/Leetcode24/tree/master/3379-score-of-a-string) |
