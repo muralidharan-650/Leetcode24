@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/muralidharan-650/Leetcode24/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/muralidharan-650/Leetcode24/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/muralidharan-650/Leetcode24/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/muralidharan-650/Leetcode24/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muralidharan-650/Leetcode24/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/muralidharan-650/Leetcode24/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/muralidharan-650/Leetcode24/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/muralidharan-650/Leetcode24/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0441-arranging-coins](https://github.com/muralidharan-650/Leetcode24/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/muralidharan-650/Leetcode24/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
